@@ -12,12 +12,12 @@ Conduct functional enrichment and network analysis to elucidate the biological r
 # Datasets
 
 The study utilized five publicly available datasets from the NCBI GEO database, all generated using the Affymetrix Human Genome U133 Plus 2.0 Array (GPL570) platform to ensure technical compatibility:
- GEO ID                          Study Title
-GSE11440       Methotrexate resistance in HT29 colon cancer cells 
-GSE27473       MCF7 cell line after silencing of Estrogen receptor 
-GSE69657       HOXB8 and KLK11 expression for FOLFOX4 chemotherapy 
-GSE15709       A2780 (cisplatin-sensitive) and Round5 A2780 (resistant) 
-GSE26459       High-throughput screen for tamoxifen resistance 
+|  GEO ID      ||                    Study Title                            |
+| GSE11440     ||  Methotrexate resistance in HT29 colon cancer cells       |
+| GSE27473     ||  MCF7 cell line after silencing of Estrogen receptor      |
+| GSE69657     ||  HOXB8 and KLK11 expression for FOLFOX4 chemotherapy      |
+| GSE15709     ||  A2780 (cisplatin-sensitive) and Round5 A2780 (resistant) |
+| GSE26459     ||  High-throughput screen for tamoxifen resistance          | 
 
 # Methodology
 Data Preprocessing: Cleaning and formatting of series matrix files using Python (pandas, os).
